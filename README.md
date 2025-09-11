@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brownteen18
 
 ## About Me
-- 🎓 I’m a second-year B.Tech student at PSIT, specializing in Computer Science with a focus on Data Science.
+- 🎓 I’m a Third-year B.Tech student at PSIT, specializing in Computer Science with a focus on Data Science.
 - 🔍 Passionate about exploring technology, coding, and creating impactful projects.
 - 🌱 Currently working on enhancing my skills in **web development** and diving deeper into **data analysis and AI**.
 
