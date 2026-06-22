@@ -1,39 +1,45 @@
-- 👋 Hi, I’m @Brownteen18
+- 👋 Hi, I’m @Brownteen20
 
-## About Me
+About Me
 
-🎓 I’m a Third-year B.Tech student at PSIT, specializing in Computer Science with a focus on Data Science.
-🔍 Passionate about technology, coding, and building impactful, real-world projects.
-🌱 Currently strengthening my skills in web development while exploring data analysis and AI-driven solutions.
+🎓 Final-year B.Tech student in Computer Science (Specialization: Data Science) at PSIT.
+🔍 Passionate about deep learning, algorithm design, and building high-performance AI-driven systems.
+🌱 Currently sharpening my skills in advanced Data Structures and Algorithms (C++) and end-to-end Machine Learning Engineering.
 
-## My Projects
+My Projects
 
-### 🔹 AI-Powered Image Deblurring App
+🔹 DataAnalyst-GPT
+A custom-trained Small Language Model (SLM) built from the ground up to analyze datasets and generate insights.
+* Engineered using **PyTorch**, featuring a custom Byte Pair Encoding (BPE) tokenizer.
+* Implemented optimized model architecture and training loops from scratch.
+* Deployed as a scalable REST API using **FastAPI** for real-time inference.
 
-A deep learning-based application designed to restore blurred images using GAN architecture (DeblurGAN).
+AI-Powered Image Deblurring App
+An end-to-end computer vision application designed to restore motion-blurred images.
+* Built a cross-platform **Flutter** mobile client interacting with a robust **Spring Boot** backend.
+* Integrated a **PyTorch** inference engine executing a specialized **DeblurGAN** architecture.
+* Optimized data pipelines for seamless, low-latency image processing.
 
-* Implemented using Python and deep learning frameworks
-* Uses Generator (ResNet-based) and Discriminator (CNN-based) models
-* Focuses on enhancing image clarity and quality for real-world use cases
+Tech Stack & Certifications
 
-## What I’m Up To
+* **Languages & Frameworks:** C++, Python, SQL, PyTorch, FastAPI, Spring Boot, Flutter
+* **Core Competencies:** Data Structures & Algorithms (DSA), Deep Learning Architecture, Data Analysis
+* **Certifications:** Generative AI Essentials (Hugging Face)
 
-🌱 Learning advanced JavaScript and Python for Data Science
-🤖 Exploring Machine Learning and AI model development
-💡 Interested in integrating blockchain with modern web applications
+Collaboration & Goals
 
-## Collaboration
+💞️ Open to collaborating on open-source LLM/SLM projects, advanced computer vision applications, and optimized backend architectures.
+🎯 Actively seeking Core Software Engineering, Data Science, and Machine Learning Engineer roles.
 
-💞️ Open to collaborating on projects related to web development, AI, and innovative data-driven solutions
-
-## Fun Facts & More
+Fun Facts & More
 
 😄 Pronouns: She/Her
-⚡ Fun fact: I love exploring new ideas and turning creativity into meaningful projects
+⚡ Fun fact: When I'm not training models or optimizing C++ code, you'll find me capturing perspectives through photography, exploring new travel destinations, or writing poetry.
 
-## Contact
+Contact
 
 📫 Reach me at: **[sanjanasanjeevcisf@gmail.com](mailto:sanjanasanjeevcisf@gmail.com)**
+🤗 Hugging Face: [Brownteen20](https://hugging face.co/Brownteen20)
 
 Let’s connect and build something amazing together! 🚀
 
